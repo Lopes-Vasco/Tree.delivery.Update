@@ -10,4 +10,5 @@ Para atender a diferentes níveis de habilidade, <strong>Tree Delivery</strong> 
 </p>
 <p>
   <strong>Alterações:</strong> Foi feito um sistema de Feedback, onde o jogador pode conferir seu desempenho de acordo com o tempo e com os erros, também foi implementado um sistema de dicas que consomem pontos dentro do jogo para que torne o aprendizado dinâmico e fluido, como também transformar a gameplay em um aprendizado sério.
+<strong> Guilherme Lopes de Oliveira; Alisson Diogo; Diego Leonardo; João Guilherme koch; Álvaro José.</strong>
 </p>
